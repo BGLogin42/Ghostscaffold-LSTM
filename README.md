@@ -1,0 +1,3 @@
+# Ghostscaffold-LSTM
+
+Is this the readme? or the code? Jesus, this could be much more simplier....
